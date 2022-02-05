@@ -1,0 +1,6 @@
+
+Hey! I'm Marina.
+
+I created a new branch and this file.
+
+And I also added the file ".gitignore" to prevent the folder ".idea" from getting into the git.
